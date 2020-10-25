@@ -7,7 +7,7 @@ A console based ATM Interface application using Java.
 ## Operations We Can Do
   1. We can view the transaction history.
   2. We can do deposits to our accounts.
-  3. We can do withdraw from our accouts.
+  3. We can do withdraw from our accounts.
   4. We can do money transfer.
 
 ### Note:
